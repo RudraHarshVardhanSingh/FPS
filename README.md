@@ -1,2 +1,2 @@
-# FPS-Game-in-godot
-FPS Game in godot
+# FPS 
+A FPS game made on Godot engine
